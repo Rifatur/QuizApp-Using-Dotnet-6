@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuizCore\QuizCore.csproj" />
+    <ProjectReference Include="..\QuizRespo\QuizRespo.csproj" />
+  </ItemGroup>
+
+</Project>

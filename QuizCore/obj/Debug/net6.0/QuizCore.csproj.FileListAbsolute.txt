@@ -1,0 +1,12 @@
+D:\2022 project\QuizApp\QuizCore\bin\Debug\net6.0\QuizCore.deps.json
+D:\2022 project\QuizApp\QuizCore\bin\Debug\net6.0\QuizCore.dll
+D:\2022 project\QuizApp\QuizCore\bin\Debug\net6.0\QuizCore.pdb
+D:\2022 project\QuizApp\QuizCore\obj\Debug\net6.0\QuizCore.csproj.AssemblyReference.cache
+D:\2022 project\QuizApp\QuizCore\obj\Debug\net6.0\QuizCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022 project\QuizApp\QuizCore\obj\Debug\net6.0\QuizCore.AssemblyInfoInputs.cache
+D:\2022 project\QuizApp\QuizCore\obj\Debug\net6.0\QuizCore.AssemblyInfo.cs
+D:\2022 project\QuizApp\QuizCore\obj\Debug\net6.0\QuizCore.csproj.CoreCompileInputs.cache
+D:\2022 project\QuizApp\QuizCore\obj\Debug\net6.0\QuizCore.dll
+D:\2022 project\QuizApp\QuizCore\obj\Debug\net6.0\ref\QuizCore.dll
+D:\2022 project\QuizApp\QuizCore\obj\Debug\net6.0\QuizCore.pdb
+D:\2022 project\QuizApp\QuizCore\obj\Debug\net6.0\refint\QuizCore.dll

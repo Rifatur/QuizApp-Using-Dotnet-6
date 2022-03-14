@@ -1,0 +1,354 @@
+﻿++Solution 'QuizApp' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:QuizApp.sln
+++QuizApp
+i:{00000000-0000-0000-0000-000000000000}:QuizApp
+++Connected Services 
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:>2288
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:>2592
+++Dependencies
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:>2287
+i:{80cac527-cc76-417f-9f94-362a45205173}:>1058
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:>1059
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:>1837
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:>2591
+++Properties
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:d:\2022 project\quizapp\quizapp\properties\
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\properties\
+++Controllers
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:d:\2022 project\quizapp\quizapp\controllers\
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\controllers\
+++QuestionController.cs
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:d:\2022 project\quizapp\quizapp\controllers\questioncontroller.cs
+++appsettings.json
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:d:\2022 project\quizapp\quizapp\appsettings.json
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\appsettings.json
+++Program.cs
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:d:\2022 project\quizapp\quizapp\program.cs
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\program.cs
+++No service dependencies discovered
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:>2289
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:>2593
+++Analyzers
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:analyzers
+i:{80cac527-cc76-417f-9f94-362a45205173}:analyzers
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:analyzers
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:analyzers
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:analyzers
+++Frameworks
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:frameworks
+i:{80cac527-cc76-417f-9f94-362a45205173}:frameworks
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:frameworks
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:frameworks
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:frameworks
+++Packages
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:packages
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:packages
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:packages
+++Projects
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:projects
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:projects
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:projects
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:projects
+++launchSettings.json
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:d:\2022 project\quizapp\quizapp\properties\launchsettings.json
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\properties\launchsettings.json
+++appsettings.Development.json
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:d:\2022 project\quizapp\quizapp\appsettings.development.json
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\users\lovet\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:c:\users\lovet\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:c:\users\lovet\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\users\lovet\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\users\lovet\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:c:\users\lovet\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:c:\users\lovet\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\users\lovet\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{80cac527-cc76-417f-9f94-362a45205173}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{80cac527-cc76-417f-9f94-362a45205173}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\users\lovet\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:c:\users\lovet\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:c:\users\lovet\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{80cac527-cc76-417f-9f94-362a45205173}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:d:\2022 project\quizapp\quizapp\microsoft.aspnetcore.app
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:d:\2022 project\quizapp\quizapp\microsoft.netcore.app
+i:{80cac527-cc76-417f-9f94-362a45205173}:d:\2022 project\quizapp\quizcore\microsoft.netcore.app
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:d:\2022 project\quizapp\quizservice\microsoft.netcore.app
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:d:\2022 project\quizapp\quizrespo\microsoft.netcore.app
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.3)
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:>2325
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:>2307
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:>2327
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:>2310
+++Swashbuckle.AspNetCore (6.2.3)
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:>2326
+++QuizService
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:d:\2022 project\quizapp\quizservice\quizservice.csproj
+i:{00000000-0000-0000-0000-000000000000}:QuizService
+++QuizCore
+i:{00000000-0000-0000-0000-000000000000}:QuizCore
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:d:\2022 project\quizapp\quizcore\quizcore.csproj
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:d:\2022 project\quizapp\quizcore\quizcore.csproj
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizcore\quizcore.csproj
+++Entities
+i:{80cac527-cc76-417f-9f94-362a45205173}:d:\2022 project\quizapp\quizcore\entities\
+++Question.cs
+i:{80cac527-cc76-417f-9f94-362a45205173}:d:\2022 project\quizapp\quizcore\entities\question.cs
+++Implementation
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:d:\2022 project\quizapp\quizservice\implementation\
+++Interfaces
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:d:\2022 project\quizapp\quizservice\interfaces\
+++QuestionService.cs
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:d:\2022 project\quizapp\quizservice\implementation\questionservice.cs
+++IQuestion.cs
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:d:\2022 project\quizapp\quizservice\interfaces\iquestion.cs
+++QuizRespo
+i:{a8fee7e3-956f-4b77-b39e-6fd93b7f3aca}:d:\2022 project\quizapp\quizrespo\quizrespo.csproj
+i:{00000000-0000-0000-0000-000000000000}:QuizRespo
+++MigrationFiles
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:d:\2022 project\quizapp\quizrespo\migrationfiles\
+++AppDbCondext.cs
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:d:\2022 project\quizapp\quizrespo\appdbcondext.cs
+++20220311201451_Question_Migration.cs
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:d:\2022 project\quizapp\quizrespo\migrationfiles\20220311201451_question_migration.cs
+++AppDbCondextModelSnapshot.cs
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:d:\2022 project\quizapp\quizrespo\migrationfiles\appdbcondextmodelsnapshot.cs
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (6.0.3)
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:>2306
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:>2308
+++20220311201451_Question_Migration.Designer.cs
+i:{aaa69038-617c-46ba-8707-7b878178bcc4}:d:\2022 project\quizapp\quizrespo\migrationfiles\20220311201451_question_migration.designer.cs
+++QuizApp.Web
+i:{00000000-0000-0000-0000-000000000000}:QuizApp.Web
+++wwwroot
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\
+++HomeController.cs
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\controllers\homecontroller.cs
+++Models
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\models\
+++Views
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\views\
+++Home
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\views\home\
+++Index.cshtml
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\views\home\index.cshtml
+++Privacy.cshtml
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\views\home\privacy.cshtml
+++Shared
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\views\shared\
+++_ViewImports.cshtml
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\views\_viewstart.cshtml
+++css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\css\
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\js\
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\
+++favicon.ico
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\favicon.ico
+++ErrorViewModel.cs
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\models\errorviewmodel.cs
+++_Layout.cshtml
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\views\shared\error.cshtml
+++MessagePackAnalyzer
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:c:\users\lovet\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:>2670
+++Newtonsoft.Json (13.0.1)
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:>2663
+++site.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\css\site.css
+++site.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\js\site.js
+++bootstrap
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\
+++jquery
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery\
+++jquery-validation
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\views\shared\_layout.cshtml.css
+++dist
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery\dist\
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery\license.txt
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{219b8cc8-fe43-4ffc-a56d-5364b6d9181f}:d:\2022 project\quizapp\quizapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Resources.resx
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:d:\2022 project\quizapp\quizapp\properties\resources.resx
+++Resources.Designer.cs
+i:{dacd8814-e40b-462e-9122-65318ce0024c}:d:\2022 project\quizapp\quizapp\properties\resources.designer.cs
