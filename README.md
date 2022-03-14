@@ -1,1 +1,1 @@
-# QuizApp-Using-Dotnet-6
+# QuizApp Using Asp.net Core 6.0 
